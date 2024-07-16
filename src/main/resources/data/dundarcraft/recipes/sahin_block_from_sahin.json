@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dundarcraft:sahin_block"
+    }
+  ],
+  "result": {
+    "item": "dundarcraft:sahin",
+    "count": 9
+  }
+}
